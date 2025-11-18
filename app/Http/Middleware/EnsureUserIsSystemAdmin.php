@@ -22,4 +22,3 @@ class EnsureUserIsSystemAdmin
         return $next($request);
     }
 }
-
